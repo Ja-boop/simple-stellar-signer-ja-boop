@@ -1,7 +1,7 @@
 # Simple Signer
 
 Simple Signer provides an easy and secure way to implement log in and transaction signing functionality on your website
-for the [Stellar network](https://stellar.org)
+for the [Stellar network](https://stellar.org).
 
 It can be embedded on any website and supports multiple wallets and languages.
 
